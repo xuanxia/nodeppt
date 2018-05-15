@@ -4,7 +4,7 @@
   "description": "A simple, in-browser, markdown-driven presentation framework",
   "version": "1.4.5",
   "site": "https://github.com/ksky521/nodeppt",
-  "main": "lib/nodeppt.js",
+  "main": "index",
   "author": {
     "name": "Theo Wang",
     "email": "ksky521@gmail.com"
